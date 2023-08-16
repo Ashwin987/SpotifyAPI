@@ -8,7 +8,7 @@ Spotify's weekly playlists provide a curated collection of songs for your enjoym
 * Easy Integration: The API offers a simple endpoint for archiving playlists, making it easy to integrate into your own applications or scripts.
 * Authorization: Securely authenticate and authorize the API to access your Spotify account using the OAuth 2.0 authorization framework.
 
-#Prerequisites
+# Prerequisites
 
 Before using the Spotify Weekly Playlist Archiver API, you'll need the following:
 
