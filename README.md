@@ -4,6 +4,6 @@ Spotify's weekly playlists provide a curated collection of songs for your enjoym
 
 
 # Features
-Automated Archiving: The API automatically detects your current weekly playlist and creates a new playlist with the same songs, allowing you to keep listening to your favorite tracks.
-Easy Integration: The API offers a simple endpoint for archiving playlists, making it easy to integrate into your own applications or scripts.
-Authorization: Securely authenticate and authorize the API to access your Spotify account using the OAuth 2.0 authorization framework.
+<br> Automated Archiving: The API automatically detects your current weekly playlist and creates a new playlist with the same songs, allowing you to keep listening to your favorite tracks.
+<br> Easy Integration: The API offers a simple endpoint for archiving playlists, making it easy to integrate into your own applications or scripts.
+<br> Authorization: Securely authenticate and authorize the API to access your Spotify account using the OAuth 2.0 authorization framework.
